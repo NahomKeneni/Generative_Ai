@@ -18,3 +18,11 @@ we are just going to hook up a single serve in our office to the internet and we
 ## Data staratagy 
 
 there is a concern of copyrightd materials. so we must purchese and supply materials and store them for acess in our database. 
+
+
+## Considerations 
+
+
+we are constidering using IBM granite because its a trulry open source model with training data that is traceable, so we can avoid and copybright issues and we are able to know what is going on the model.
+
+https://www.ibm.com/granite 
